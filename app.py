@@ -146,6 +146,7 @@ Deep sleep peaks in the first half of the night; REM in the second half.
 - [National Sleep Foundation](https://www.thensf.org)
 - [Sleep Health Journal](https://www.sleephealthjournal.org)
 - [Why We Sleep — Matthew Walker](https://www.amazon.com/dp/1501144316)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/adilshamim8/sleep-cycle-and-productivity/discussion?sort=hotness)
         """)
 
 # ── Main App ──────────────────────────────────────────────────────────────────
